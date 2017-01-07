@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DD6A2D0E59282EA7BBECE5A55FBB43065F9444EC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DD6A2D0E59282EA7BBECE5A55FBB43065F9444EC" : 9223372036854775807,
+    "4CD8186CE66A0AD46BD21DF2E9F43E65780546D2" : 9223372036854775807,
+    "6647C67748EFC882CB1F245D9B8ABF39B63B8E2D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6C77AFB7-E376-46D0-AC8D-EB8D4F229506",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DD6A2D0E59282EA7BBECE5A55FBB43065F9444EC" : "TrafficLights-DeepLearning-iOS\/",
+    "4CD8186CE66A0AD46BD21DF2E9F43E65780546D2" : "TrafficLights-DeepLearning-iOS\/caffe\/",
+    "6647C67748EFC882CB1F245D9B8ABF39B63B8E2D" : "caffe-ios-sample\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TrafficLightDetector",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TrafficLightDetector.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aleph7\/caffe.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4CD8186CE66A0AD46BD21DF2E9F43E65780546D2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/noradaiko\/caffe-ios-sample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6647C67748EFC882CB1F245D9B8ABF39B63B8E2D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/asavihay\/TrafficLights-DeepLearning-iOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD6A2D0E59282EA7BBECE5A55FBB43065F9444EC"
+    }
+  ]
+}
