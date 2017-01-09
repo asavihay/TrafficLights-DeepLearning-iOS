@@ -1,7 +1,7 @@
 # TrafficLights-DeepLearning-iOS
 Bringing Magic To Your Mobile App With Deep Learning - Teaching Your App To Detect Traffic Lights From 18,000 Images Is The First Step In Building Your Own Self Driving Car
 
-Code for the following [blog post](https://medium.com/@avihay/build-a-deep-learning-real-time-mobile-application-with-caffe-184d9062d7fc)
+Code for the following [blog post](https://medium.com/@avihay/bring-magic-to-your-mobile-app-with-deep-learning-184d9062d7fc)
 
 ![TrafficLights](https://raw.githubusercontent.com/asavihay/TrafficLights-DeepLearning-iOS/master/screenshots/screenshot.png)
 
